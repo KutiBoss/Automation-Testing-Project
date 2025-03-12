@@ -1,0 +1,3 @@
+1. CI tool that works with GitHub(Travis CI) - Yaml file already in auto project.
+
+2. Test coverage tool - Istanbul(for JS projects)- run npm install --save-dev nyc (test command is already set up in package.json). to execute test that generates coverage report using this tool, run npm run test-coverage
