@@ -1,2 +1,2 @@
 # Automation-Testing-Project
- Automation with NodeJS and MongoDB
+ Automation with NodeJS, Mocha and MongoDB
